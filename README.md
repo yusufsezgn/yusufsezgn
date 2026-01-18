@@ -14,17 +14,3 @@ I am gradually improving my software skills.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
 </p>
-
-## GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufsezgin58&show_icons=true&theme=github_dark"/>
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsezgin58&layout=compact&theme=github_dark"/>
-</p>
