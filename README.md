@@ -17,8 +17,14 @@ I am gradually improving my software skills.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufsezgn&show_icons=true&theme=dark)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsezgn&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufsezgin58&show_icons=true&theme=github_dark"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yusufsezgn&theme=dark)
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsezgin58&layout=compact&theme=github_dark"/>
+</p>
